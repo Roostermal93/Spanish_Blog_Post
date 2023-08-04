@@ -1,0 +1,35 @@
+{
+    "count": 4,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "5538a9a8-36b9-4945-bf3a-e56565a0a397",
+            "collectionId": "Spanish",
+            "type": "Blog_Post",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Spanish/Spanish_Blog_Post/5538a9a8-36b9-4945-bf3a-e56565a0a397/5538a9a8-36b9-4945-bf3a-e56565a0a397_es_Female.mp4"
+        },
+        {
+            "id": "b3396399-eab8-4209-b7dd-d8fbff9547c7",
+            "collectionId": "Spanish",
+            "type": "Blog_Post",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Spanish/Spanish_Blog_Post/b3396399-eab8-4209-b7dd-d8fbff9547c7/b3396399-eab8-4209-b7dd-d8fbff9547c7_es_Female.mp4"
+        },
+        {
+            "id": "973014ea-0d96-44f0-a303-10cd5056dbc3",
+            "collectionId": "Spanish",
+            "type": "Blog_Post",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Spanish/Spanish_Blog_Post/973014ea-0d96-44f0-a303-10cd5056dbc3/973014ea-0d96-44f0-a303-10cd5056dbc3_es_Female.mp4"
+        },
+        {
+            "id": "c531f312-beaa-40b2-84f8-5b77e746d1f0",
+            "collectionId": "Spanish",
+            "type": "Blog_Post",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Spanish/Spanish_Blog_Post/c531f312-beaa-40b2-84f8-5b77e746d1f0/c531f312-beaa-40b2-84f8-5b77e746d1f0_es_Male.mp4"
+        }
+    ]
+}
